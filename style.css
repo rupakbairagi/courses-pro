@@ -4,3 +4,9 @@
 .carousel-item img{
     filter: brightness(50%);
 }
+@media screen and (max-width: 1200px) {
+    .companies{
+      display:none;
+    }
+    
+  }
