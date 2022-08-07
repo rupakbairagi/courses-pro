@@ -1,0 +1,6 @@
+.caption{
+    bottom: 25vh
+}
+.carousel-item img{
+    filter: brightness(50%);
+}
